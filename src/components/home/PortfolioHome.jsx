@@ -1,6 +1,7 @@
 import React from 'react';
 import Style from './Home.module.scss';
-import me from '../../img/meImg.webp';
+// import me from '../../img/meImg.webp';
+import me from '../../img/me_pic_prof.jpeg';
 import classNames from 'classnames';
 import EmojiBullet from "./EmojiBullet";
 import SocialIcon from "./SocialIcon";

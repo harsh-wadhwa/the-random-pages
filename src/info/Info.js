@@ -37,13 +37,13 @@ export const info = {
             text: 'based in India'
         },
         {
-            emoji: "💼",
+            emoji: "👨‍💻",
             text: "Software Developer at Aumhum"
         },
         {
             emoji: "📧",
             text: "harsh.wadhwa1711@gmail.com"
-        }
+        },
     ],
     socials: [
         {
@@ -68,7 +68,7 @@ export const info = {
     bio: "Hello! I'm Harsh. I'm a software developer for Aumhum. I studied CompSci at NIIT, I enjoy long runs on the lake, and I believe artificial intelligence will inevitably rule us all one day.",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
+            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma', 'tailwind', 'Vite', 'Stripe', 'Razorpay', 'styled-components', 'Postman API', 'Firebase'],
             exposedTo: ['nodejs', 'python', 'java', 'aws', 'mongoDB']
         }
     ,
